@@ -1,0 +1,13 @@
+{
+  "_comment": "Free, legally accessible feeds. Official sources are public-domain or published for redistribution; for media feeds only the headline, a short excerpt and a link are stored, with attribution. Remove any source you do not want. Respect each site's terms.",
+  "userAgent": "PATH-Academy-Briefing/1.0 (open-source educational app; contact via GitHub repository)",
+  "sources": [
+    { "name": "Federal Reserve", "home": "https://www.federalreserve.gov", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "category": "central-banks", "lang": "en" },
+    { "name": "European Central Bank", "home": "https://www.ecb.europa.eu", "url": "https://www.ecb.europa.eu/rss/press.html", "category": "central-banks", "lang": "en" },
+    { "name": "Bank of England", "home": "https://www.bankofengland.co.uk", "url": "https://www.bankofengland.co.uk/rss/news", "category": "central-banks", "lang": "en" },
+    { "name": "U.S. SEC", "home": "https://www.sec.gov", "url": "https://www.sec.gov/news/pressreleases.rss", "category": "regulation", "lang": "en" },
+    { "name": "U.S. BLS", "home": "https://www.bls.gov", "url": "https://www.bls.gov/feed/bls_latest.rss", "category": "macro", "lang": "en" },
+    { "name": "CNBC Finance", "home": "https://www.cnbc.com", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "category": "equity-markets", "lang": "en" },
+    { "name": "CNBC Business", "home": "https://www.cnbc.com", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147", "category": "ma", "lang": "en" }
+  ]
+}

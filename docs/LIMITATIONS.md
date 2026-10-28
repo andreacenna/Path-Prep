@@ -1,0 +1,11 @@
+# Known limitations (honest list)
+
+- **Content accuracy**: lessons were written and reviewed for accuracy (each shows a review date and sources), all numerical answers are machine-verified, and a second-pass technical review was performed. It is still educational material: verify standard requirements (IFRS, US GAAP, OIC, Civil Code, tax law) against official texts before relying on them professionally. Regulatory thresholds change — several lessons say so explicitly.
+- **Some facts could not be checked against primary sources** from the build environment (several official sites were unreachable); where a detail could not be confirmed it was omitted or stated generally. Case studies list their sources.
+- **Interview evaluation** is structured self-assessment against reviewed model answers/rubrics (numeric parts auto-graded). There is no free, reliable automated expert grader, so none is simulated. Keyword matching is not used for grading.
+- **Speech-to-text** relies on the browser's Web Speech API (Chrome/Edge/Safari; not Firefox). In Chrome/Edge audio is processed by the vendor's cloud service — hence the explicit consent. Without it, record → listen → type.
+- **Notifications**: local reminders fire only while the app/installed window is running; background push would need a push server. iOS requires the app installed to the Home Screen (iOS 16.4+).
+- **Storage**: IndexedDB is per browser/device and can be cleared by the user or by the OS (iOS may evict data of non-installed sites unused for weeks). Use Profile → Export backup; request persistent storage in Profile. No cross-device sync (would require a backend).
+- **News**: only feeds that are free and legally accessible; media feeds are limited to headline + short excerpt + link. "Why it matters"/concepts are category- and keyword-based templates, not story-specific analysis. Headlines are shown in their original language. The build sandbox could not reach the feeds, so the first briefing is created by the first GitHub Actions run.
+- **CV parsing** is heuristic (layout-dependent). Everything starts unverified and must be confirmed or edited.
+- **Spreadsheet exercises** are fill-in grids, not a full formula-capable spreadsheet engine.
