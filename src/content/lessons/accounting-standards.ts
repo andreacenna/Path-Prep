@@ -737,7 +737,7 @@ const a3: Lesson[] = [
       },
       {
         type: 'technical',
-        title: t('Leases: OIC 12 vs IFRS 16', 'Leasing: OIC 12 vs IFRS 16'),
+        title: t('Leases: OIC (Civil Code) vs IFRS 16', 'Leasing: OIC (Codice Civile) vs IFRS 16'),
         body: t(
           '**OIC (separate statements)**: the lessee uses the **metodo patrimoniale** — finance lease instalments are expensed in B8 (godimento di beni di terzi), the asset is recognised only when the purchase option is exercised. The **financial method** effects (asset value, depreciation, residual debt, interest) are disclosed in the nota integrativa (art. 2427 n. 22). The financial method is **not required** in separate statements.\n\n**OIC 17 (consolidated)**: the financial method is **recommended**, but the metodo patrimoniale remains allowed with n. 22 disclosure.\n\n**IFRS 16**: a single lessee model — **right-of-use asset** and **lease liability** for almost all leases (exemptions: short-term ≤ 12 months, low-value assets). Operating leases (rents) are capitalised too, not just finance leases.',
           '**OIC (bilancio d\'esercizio)**: il locatario applica il **metodo patrimoniale** — i canoni di leasing finanziario sono costi in B8 (godimento di beni di terzi) e il bene si iscrive solo al riscatto. Gli effetti del **metodo finanziario** (valore del bene, ammortamenti, debito residuo, oneri finanziari) si danno in nota integrativa (art. 2427 n. 22). Il metodo finanziario **non è richiesto** nel bilancio d\'esercizio.\n\n**OIC 17 (consolidato)**: il metodo finanziario è **raccomandato**, ma resta ammesso il patrimoniale con l\'informativa del n. 22.\n\n**IFRS 16**: modello unico per il locatario — **diritto d\'uso** e **passività per leasing** per quasi tutti i contratti (esenzioni: breve termine ≤ 12 mesi, beni di modesto valore). Si capitalizzano anche gli affitti operativi, non solo i leasing finanziari.'
@@ -817,7 +817,7 @@ const a3: Lesson[] = [
         items: [
           t('Thinking goodwill amortisation affects EBITDA. It sits below EBITDA under both frameworks.', 'Pensare che l\'ammortamento dell\'avviamento incida sull\'EBITDA. È sotto l\'EBITDA in entrambi i framework.'),
           t('Adding back lease instalments to EBITDA without adding lease debt to net debt.', 'Riaggiungere i canoni di leasing all\'EBITDA senza sommare il debito per leasing alla PFN.'),
-          t('Assuming OIC 12 capitalises operating rents. Only IFRS 16 brings ordinary rental contracts on balance sheet; OIC n. 22 disclosure covers finance leases.', 'Ritenere che l\'OIC capitalizzi gli affitti operativi. Solo l\'IFRS 16 porta in bilancio i normali contratti di locazione; l\'informativa OIC n. 22 riguarda il leasing finanziario.'),
+          t('Assuming OIC capitalises operating rents. Only IFRS 16 brings ordinary rental contracts on balance sheet; OIC n. 22 disclosure covers finance leases.', 'Ritenere che l\'OIC capitalizzi gli affitti operativi. Solo l\'IFRS 16 porta in bilancio i normali contratti di locazione; l\'informativa OIC n. 22 riguarda il leasing finanziario.'),
           t('Saying OIC 34 is identical to IFRS 15. It borrows the units-of-account logic but keeps risks and rewards for goods.', 'Dire che l\'OIC 34 è identico all\'IFRS 15. Ne riprende la logica delle unità di contabilizzazione ma mantiene rischi e benefici per i beni.')
         ]
       },
@@ -1148,6 +1148,7 @@ const a4: Lesson[] = [
     sources: [
       { label: 'IFRS Foundation — IFRS 18 Presentation and Disclosure in Financial Statements (issued April 2024, effective 1 January 2027)', url: 'https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/' },
       { label: 'EFRAG — Endorsement status (IFRS 18 endorsed February 2026)', url: 'https://www.efrag.org/en/financial-reporting/endorsement-status' },
+      { label: 'Commission Regulation (EU) 2026/338 endorsing IFRS 18 (OJ, 16 Feb 2026) — OIC summary', url: 'https://www.fondazioneoic.eu/31086/?lang=en' },
       { label: 'IFRS Foundation — Conceptual Framework for Financial Reporting (2018)', url: 'https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/' }
     ]
   },

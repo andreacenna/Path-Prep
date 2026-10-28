@@ -1114,8 +1114,8 @@ export const cases: CaseStudy[] = [
     closedOrEnded: '2018-03-12',
     status: 'blocked',
     value: {
-      en: 'Unsolicited proposal of $70.00 per share ($60 cash + $10 in Broadcom shares), ≈$130bn including ≈$25bn of net debt (pro forma for Qualcomm’s pending NXP deal); raised in Feb 2018 to a “best and final” $82.00 per share ($60 cash + $22 stock), ≈$121bn.',
-      it: 'Proposta non sollecitata di $70,00 per azione ($60 in contanti + $10 in azioni Broadcom), ≈$130mld includendo ≈$25mld di debito netto (pro forma per l’operazione NXP di Qualcomm in corso); aumentata a febbraio 2018 a un’offerta “best and final” di $82,00 per azione ($60 cash + $22 in azioni), ≈$121mld.'
+      en: 'Unsolicited proposal of $70.00 per share ($60 cash + $10 in Broadcom shares), ≈$130bn including ≈$25bn of net debt (pro forma for Qualcomm’s pending NXP deal); raised in Feb 2018 to a “best and final” $82.00 per share ($60 cash + $22 stock), ≈$121bn equity value (≈$146bn including net debt).',
+      it: 'Proposta non sollecitata di $70,00 per azione ($60 in contanti + $10 in azioni Broadcom), ≈$130mld includendo ≈$25mld di debito netto (pro forma per l’operazione NXP di Qualcomm in corso); aumentata a febbraio 2018 a un’offerta “best and final” di $82,00 per azione ($60 cash + $22 in azioni), ≈$121mld di equity value (≈$146mld includendo il debito netto).'
     },
     rationale: {
       en: 'Create a dominant communications-chip company combining Broadcom’s connectivity/networking chips with Qualcomm’s mobile processors, modems and patent-licensing business; Broadcom’s model emphasised aggressive cost discipline and margin expansion.',

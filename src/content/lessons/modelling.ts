@@ -1177,8 +1177,8 @@ export const lessons: Lesson[] = [
           t('Accumulate remaining cash on balance sheet', 'Accumulare la cassa residua in bilancio')
         ],
         explanation: t(
-          'Contractual obligations come first (keeping minimum liquidity and paying scheduled amortisation), then the revolver — usually the most senior and most expensive to leave drawn — then voluntary or swept prepayments of term debt; any residual cash builds up.',
-          'Prima gli obblighi contrattuali (mantenere la liquidità minima e pagare gli ammortamenti previsti), poi la revolving — di solito la più senior e quella da non lasciare utilizzata — poi i rimborsi anticipati volontari o da sweep del debito a termine; la cassa residua si accumula.'
+          'Contractual obligations come first (keeping minimum liquidity and paying scheduled amortisation), then the revolver — senior, prepayable at any time and redrawable, so repaying it first keeps flexibility at no cost — then voluntary or swept prepayments of term debt; any residual cash builds up.',
+          'Prima gli obblighi contrattuali (mantenere la liquidità minima e pagare gli ammortamenti previsti), poi la revolving — senior, rimborsabile in ogni momento e riutilizzabile, quindi rimborsarla per prima preserva flessibilità senza costi — poi i rimborsi anticipati volontari o da sweep del debito a termine; la cassa residua si accumula.'
         )
       }
     ],
