@@ -33,7 +33,7 @@ const fail = (m) => { throw new Error(m); };
 const browser = await chromium.launch();
 let ok = false;
 try {
-  const ctx = await browser.newContext({ viewport: { width: 375, height: 740 }, deviceScaleFactor: 2, hasTouch: true, isMobile: true, locale: 'en-US' });
+  const ctx = await browser.newContext({ viewport: { width: 375, height: 740 }, deviceScaleFactor: 2, hasTouch: true, isMobile: true, locale: 'en-US', reducedMotion: 'reduce' });
   const page = await ctx.newPage();
   const errors = [];
   page.on('pageerror', (e) => errors.push(e.message));
