@@ -1,0 +1,333 @@
+{
+ "generatedAt": "2026-10-28T17:00:58.122Z",
+ "sources": [
+  {
+   "name": "Federal Reserve",
+   "url": "https://www.federalreserve.gov",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "name": "European Central Bank",
+   "url": "https://www.ecb.europa.eu",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "name": "Bank of England",
+   "url": "https://www.bankofengland.co.uk",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "name": "U.S. SEC",
+   "url": "https://www.sec.gov",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "name": "U.S. BLS",
+   "url": "https://www.bls.gov",
+   "ok": false,
+   "count": 0
+  },
+  {
+   "name": "CNBC Finance",
+   "url": "https://www.cnbc.com",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "name": "CNBC Business",
+   "url": "https://www.cnbc.com",
+   "ok": true,
+   "count": 12
+  }
+ ],
+ "items": [
+  {
+   "id": "11km5ch",
+   "title": "America's largest budget airline reports 71% jump in airfare",
+   "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T16:29:09.000Z",
+   "excerpt": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1f5bfl4",
+   "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T16:00:01.000Z",
+   "excerpt": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "jr4kol",
+   "title": "Remit for the Monetary Policy Committee - October 2026",
+   "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-10-28T14:16:49.000Z",
+   "excerpt": "Letter from the Chancellor to the Governor",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ady7at",
+   "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
+   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T13:48:05.000Z",
+   "excerpt": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+   "category": "equity-markets",
+   "concepts": [
+    "fx",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "mr28z0",
+   "title": "Why China is desperate to ship cars outside of the country",
+   "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T13:17:20.000Z",
+   "excerpt": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
+   "category": "ma",
+   "concepts": [
+    "ev-equity",
+    "multiples",
+    "synergies",
+    "ma-financing"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1341no8",
+   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
+   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T20:32:24.000Z",
+   "excerpt": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1nxr4bu",
+   "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+   "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T20:15:33.000Z",
+   "excerpt": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1d3xy3x",
+   "title": "JetBlue stock surges as company outlook calms investors",
+   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T20:13:21.000Z",
+   "excerpt": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "4caihz",
+   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T17:53:47.000Z",
+   "excerpt": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1bkplds",
+   "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
+   "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T16:33:09.000Z",
+   "excerpt": "American Airlines joined other airlines and banks in raising their airline credit card fee for one of their major cards.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "bncrrk",
+   "title": "UPS beats quarterly expectations, raises full-year guidance again",
+   "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T15:29:49.000Z",
+   "excerpt": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "b1u0sc",
+   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T15:04:36.000Z",
+   "excerpt": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "3jy6dl",
+   "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+   "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-27T14:07:03.000Z",
+   "excerpt": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "13sa9ln",
+   "title": "October 2026 euro area bank lending survey",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-27T00:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1xh0vcc",
+   "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-26T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "bss93o",
+   "title": "Frank Elderson: Taking action for nature – investing in economic resilience and prosperity",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-26T05:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ej97sv",
+   "title": "Piero Cipollone: Interview with Milano Finanza",
+   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-24T06:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "10zcrcd",
+   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-10-23T14:10:00.000Z",
+   "excerpt": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1j2gfsd",
+   "title": "ECB Consumer Expectations Survey results – September 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-23T08:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1rvuesh",
+   "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+   "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-10-22T20:00:00.000Z",
+   "excerpt": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1lgpjvm",
+   "title": "Minutes of the Securities Lending Committee meeting – September 2026",
+   "link": "https://www.bankofengland.co.uk/minutes/2026/september/securities-lending-committee-meeting-september-2026",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-10-22T15:35:53.000Z",
+   "excerpt": "The Securities Lending Committee is a forum for market participants and authorities to discuss the UK securities lending market.",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  }
+ ]
+}
