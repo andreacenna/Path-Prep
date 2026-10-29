@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T17:00:58.122Z",
+ "generatedAt": "2026-10-29T05:55:56.971Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -51,24 +51,80 @@
    "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T16:29:09.000Z",
+   "published": "2026-10-28T23:51:38.000Z",
    "excerpt": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
    "category": "ma",
    "concepts": [],
    "lang": "en"
   },
   {
+   "id": "1hbe55x",
+   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T22:27:00.000Z",
+   "excerpt": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "78s39d",
+   "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T22:12:28.000Z",
+   "excerpt": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "1f5bfl4",
-   "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T16:00:01.000Z",
-   "excerpt": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+   "published": "2026-10-28T21:42:24.000Z",
+   "excerpt": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
     "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ady7at",
+   "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
+   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-28T20:23:48.000Z",
+   "excerpt": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+   "category": "equity-markets",
+   "concepts": [
+    "fx",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "6zc8h6",
+   "title": "Federal Reserve issues FOMC statement",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-10-28T18:00:00.000Z",
+   "excerpt": "Federal Reserve issues FOMC statement",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
    ],
    "lang": "en"
   },
@@ -84,21 +140,6 @@
    "concepts": [
     "monetary-policy",
     "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1ady7at",
-   "title": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
-   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T13:48:05.000Z",
-   "excerpt": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-   "category": "equity-markets",
-   "concepts": [
-    "fx",
-    "multiples"
    ],
    "lang": "en"
   },
