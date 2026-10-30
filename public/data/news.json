@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T05:56:03.740Z",
+ "generatedAt": "2026-10-30T16:57:11.032Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,69 @@
  ],
  "items": [
   {
+   "id": "peqnya",
+   "title": "Philip R. Lane: AI adoption in Europe",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-30T16:10:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1gwr5hi",
+   "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+   "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T15:37:21.000Z",
+   "excerpt": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1i6jgl4",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-30T14:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ahig5f",
+   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T13:29:50.000Z",
+   "excerpt": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "6fyg39",
+   "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-30T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "1nimbqg",
    "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
    "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
@@ -58,18 +121,6 @@
     "financial-statements",
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "1ahig5f",
-   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T21:29:59.000Z",
-   "excerpt": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   },
   {
@@ -512,32 +563,6 @@
    "source": "European Central Bank",
    "sourceHome": "https://www.ecb.europa.eu",
    "published": "2026-10-24T06:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "10zcrcd",
-   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-10-23T14:10:00.000Z",
-   "excerpt": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1j2gfsd",
-   "title": "ECB Consumer Expectations Survey results – September 2026",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-23T08:00:00.000Z",
    "excerpt": "",
    "category": "central-banks",
    "concepts": [],
