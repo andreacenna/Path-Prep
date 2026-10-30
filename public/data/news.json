@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T17:04:05.254Z",
+ "generatedAt": "2026-10-30T05:56:03.740Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,72 @@
  ],
  "items": [
   {
+   "id": "1nimbqg",
+   "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+   "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T21:52:27.000Z",
+   "excerpt": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ahig5f",
+   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T21:29:59.000Z",
+   "excerpt": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ug2yu1",
+   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-10-29T20:30:00.000Z",
+   "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "mr3s7r",
+   "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
+   "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T20:14:15.000Z",
+   "excerpt": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "loilns",
+   "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+   "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T19:36:04.000Z",
+   "excerpt": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "6ttscq",
    "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
@@ -55,6 +121,20 @@
    "excerpt": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "2rasku",
+   "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-10-29T16:42:37.000Z",
+   "excerpt": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
    "lang": "en"
   },
   {
@@ -83,7 +163,7 @@
   },
   {
    "id": "t2od18",
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
    "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
    "source": "European Central Bank",
    "sourceHome": "https://www.ecb.europa.eu",
@@ -459,18 +539,6 @@
    "sourceHome": "https://www.ecb.europa.eu",
    "published": "2026-10-23T08:00:00.000Z",
    "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1rvuesh",
-   "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-   "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-10-22T20:00:00.000Z",
-   "excerpt": "The number of financial services roles required to face enhanced checks from regulators will fall significantly under proposals that will support growth.",
    "category": "central-banks",
    "concepts": [],
    "lang": "en"
