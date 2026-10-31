@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T16:57:11.032Z",
+ "generatedAt": "2026-10-31T05:51:43.791Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,14 +46,14 @@
  ],
  "items": [
   {
-   "id": "peqnya",
-   "title": "Philip R. Lane: AI adoption in Europe",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-30T16:10:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
+   "id": "1eunc73",
+   "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-10-30T19:30:00.000Z",
+   "excerpt": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
+   "category": "regulation",
    "concepts": [],
    "lang": "en"
   },
@@ -63,9 +63,21 @@
    "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-30T15:37:21.000Z",
-   "excerpt": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+   "published": "2026-10-30T18:45:35.000Z",
+   "excerpt": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
    "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "peqnya",
+   "title": "Philip R. Lane: AI adoption in Europe",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-10-30T16:10:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   },
