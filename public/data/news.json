@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T05:51:43.791Z",
+ "generatedAt": "2026-10-31T16:48:09.718Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,18 @@
   }
  ],
  "items": [
+  {
+   "id": "9gqb7n",
+   "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+   "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-31T12:00:01.000Z",
+   "excerpt": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "1eunc73",
    "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
@@ -563,18 +575,6 @@
    "source": "European Central Bank",
    "sourceHome": "https://www.ecb.europa.eu",
    "published": "2026-10-26T05:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "ej97sv",
-   "title": "Piero Cipollone: Interview with Milano Finanza",
-   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-24T06:00:00.000Z",
    "excerpt": "",
    "category": "central-banks",
    "concepts": [],
