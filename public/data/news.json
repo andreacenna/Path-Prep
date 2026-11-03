@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T17:15:32.758Z",
+ "generatedAt": "2026-11-03T06:04:14.059Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,58 @@
  ],
  "items": [
   {
+   "id": "rscinx",
+   "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+   "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T05:01:01.000Z",
+   "excerpt": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ivv5i2",
+   "title": "Stock market after midterm elections: What S&P 500 history shows",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-02T23:13:34.000Z",
+   "excerpt": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1oc9tr6",
+   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-02T21:13:43.000Z",
+   "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1u7jgi9",
+   "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-02T20:00:16.000Z",
+   "excerpt": "These are some of the stocks posting the largest moves midday.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "9gqb7n",
    "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
    "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
@@ -58,6 +110,20 @@
    "lang": "en"
   },
   {
+   "id": "7zemi5",
+   "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
+   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-02T12:49:35.000Z",
+   "excerpt": "These are the stocks posting the largest moves in early trading.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "e7xie8",
    "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
@@ -66,6 +132,42 @@
    "published": "2026-11-02T09:30:00.000Z",
    "excerpt": "",
    "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "upbfkb",
+   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+   "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-31T12:47:08.000Z",
+   "excerpt": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "xt99dc",
+   "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+   "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T21:53:10.000Z",
+   "excerpt": "The comments from Federal Reserve Presidents Alberto Musalem and Lorie Logan offer the first morsels of insight into what leaders at the Fed see happening next.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1ldjqep",
+   "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T20:18:49.000Z",
+   "excerpt": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
@@ -91,6 +193,21 @@
    "excerpt": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1wqwuck",
+   "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+   "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T16:55:41.000Z",
+   "excerpt": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+   "category": "inflation",
+   "concepts": [
+    "inflation",
+    "monetary-policy"
+   ],
    "lang": "en"
   },
   {
@@ -133,6 +250,20 @@
    "lang": "en"
   },
   {
+   "id": "ecgslg",
+   "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
+   "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-30T12:01:15.000Z",
+   "excerpt": "These are the stocks posting the largest moves premarket.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "6fyg39",
    "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
@@ -152,6 +283,21 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-10-29T21:52:27.000Z",
    "excerpt": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "88prbw",
+   "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
+   "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T21:38:16.000Z",
+   "excerpt": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
@@ -187,6 +333,18 @@
    "lang": "en"
   },
   {
+   "id": "ddfg4s",
+   "title": "Aon CEO warns AI data center insurance risks could threaten financing",
+   "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T20:12:29.000Z",
+   "excerpt": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "loilns",
    "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
    "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
@@ -196,6 +354,20 @@
    "excerpt": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "177r99k",
+   "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
+   "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-10-29T17:10:32.000Z",
+   "excerpt": "These are the stocks posting the largest moves midday.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
    "lang": "en"
   },
   {
@@ -552,20 +724,6 @@
    "excerpt": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "13sa9ln",
-   "title": "October 2026 euro area bank lending survey",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-27T00:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "fx"
-   ],
    "lang": "en"
   }
  ]
