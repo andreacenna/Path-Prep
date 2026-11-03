@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T06:04:14.059Z",
+ "generatedAt": "2026-11-03T17:08:16.987Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,13 +46,13 @@
  ],
  "items": [
   {
-   "id": "rscinx",
-   "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-   "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+   "id": "18qafe5",
+   "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T05:01:01.000Z",
-   "excerpt": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+   "published": "2026-11-03T17:05:29.000Z",
+   "excerpt": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
@@ -63,7 +63,7 @@
    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-02T23:13:34.000Z",
+   "published": "2026-11-03T15:19:38.000Z",
    "excerpt": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
    "category": "equity-markets",
    "concepts": [
@@ -72,15 +72,125 @@
    "lang": "en"
   },
   {
+   "id": "1exh6tu",
+   "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+   "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T15:19:14.000Z",
+   "excerpt": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "im3t5p",
+   "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+   "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T14:43:43.000Z",
+   "excerpt": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "3b6wdu",
+   "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+   "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T14:18:27.000Z",
+   "excerpt": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1xlb76r",
+   "title": "Versant earnings beat expectations as digital platforms drive growth",
+   "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T14:17:42.000Z",
+   "excerpt": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "rscinx",
+   "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+   "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T13:40:04.000Z",
+   "excerpt": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "1oc9tr6",
    "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-02T21:13:43.000Z",
+   "published": "2026-11-03T13:33:11.000Z",
    "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
    "category": "equity-markets",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ppyq2c",
+   "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T12:47:45.000Z",
+   "excerpt": "These are the stocks posting the largest moves premarket.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "13mcha4",
+   "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+   "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-03T10:00:00.000Z",
+   "excerpt": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1sg3rik",
+   "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+   "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T06:46:36.000Z",
+   "excerpt": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
+   "category": "private-equity",
+   "concepts": [
+    "lbo",
+    "leverage"
+   ],
    "lang": "en"
   },
   {
@@ -668,60 +778,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-10-27T17:53:47.000Z",
    "excerpt": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1bkplds",
-   "title": "American Airlines hikes annual fees on rewards cards for first time since 2018",
-   "link": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T16:33:09.000Z",
-   "excerpt": "American Airlines joined other airlines and banks in raising their airline credit card fee for one of their major cards.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "bncrrk",
-   "title": "UPS beats quarterly expectations, raises full-year guidance again",
-   "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T15:29:49.000Z",
-   "excerpt": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "b1u0sc",
-   "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-   "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T15:04:36.000Z",
-   "excerpt": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "3jy6dl",
-   "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-   "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T14:07:03.000Z",
-   "excerpt": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
