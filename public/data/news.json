@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T06:11:13.943Z",
+ "generatedAt": "2026-11-04T17:06:49.956Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,13 +46,83 @@
  ],
  "items": [
   {
+   "id": "1rw6lz",
+   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T17:00:57.000Z",
+   "excerpt": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1b6khpj",
+   "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+   "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T16:35:50.000Z",
+   "excerpt": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
+   "category": "ma",
+   "concepts": [
+    "ev-equity",
+    "multiples",
+    "synergies",
+    "ma-financing"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "clfjlw",
+   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-04T16:28:00.000Z",
+   "excerpt": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
+   "category": "regulation",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1mbz171",
+   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+   "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T15:45:51.000Z",
+   "excerpt": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "olkidu",
+   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+   "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T15:35:23.000Z",
+   "excerpt": "Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company.",
+   "category": "private-equity",
+   "concepts": [
+    "lbo",
+    "leverage",
+    "ev-equity",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "1am520r",
-   "title": "McDonald's is about to report earnings. Here's what to expect",
+   "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
    "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T05:01:01.000Z",
-   "excerpt": "McDonald's stock has fallen about 11% over the last year.",
+   "published": "2026-11-04T15:05:28.000Z",
+   "excerpt": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
@@ -61,17 +131,53 @@
    "lang": "en"
   },
   {
-   "id": "1rw6lz",
-   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "id": "1rhx4ci",
+   "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+   "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-04T14:51:45.000Z",
+   "excerpt": "The second meeting of the RTGS CHAPS Industry Forum",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "fn3dsk",
+   "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+   "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T03:24:03.000Z",
-   "excerpt": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+   "published": "2026-11-04T13:32:54.000Z",
+   "excerpt": "These are the stocks posting the largest moves in the premarket.",
    "category": "equity-markets",
    "concepts": [
     "multiples"
    ],
+   "lang": "en"
+  },
+  {
+   "id": "6n56a",
+   "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+   "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T12:08:15.000Z",
+   "excerpt": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1kvtvpt",
+   "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-04T00:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
    "lang": "en"
   },
   {
@@ -732,38 +838,6 @@
    "concepts": [
     "monetary-policy",
     "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "jr4kol",
-   "title": "Remit for the Monetary Policy Committee - October 2026",
-   "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-10-28T14:16:49.000Z",
-   "excerpt": "Letter from the Chancellor to the Governor",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "mr28z0",
-   "title": "Why China is desperate to ship cars outside of the country",
-   "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T13:17:20.000Z",
-   "excerpt": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-   "category": "ma",
-   "concepts": [
-    "ev-equity",
-    "multiples",
-    "synergies",
-    "ma-financing"
    ],
    "lang": "en"
   }
