@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T17:08:16.987Z",
+ "generatedAt": "2026-11-04T06:11:13.943Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,13 +46,69 @@
  ],
  "items": [
   {
-   "id": "18qafe5",
-   "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+   "id": "1am520r",
+   "title": "McDonald's is about to report earnings. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T17:05:29.000Z",
-   "excerpt": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
+   "published": "2026-11-04T05:01:01.000Z",
+   "excerpt": "McDonald's stock has fallen about 11% over the last year.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1rw6lz",
+   "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T03:24:03.000Z",
+   "excerpt": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. midterm elections.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "i1ittr",
+   "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+   "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T22:26:20.000Z",
+   "excerpt": "JetBlue raised baggage fees for the third time in a year as fuel costs continued to climb.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "im3t5p",
+   "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+   "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T21:11:34.000Z",
+   "excerpt": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "3b6wdu",
+   "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+   "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T19:25:44.000Z",
+   "excerpt": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
@@ -63,12 +119,24 @@
    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T15:19:38.000Z",
+   "published": "2026-11-03T18:21:05.000Z",
    "excerpt": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
    "category": "equity-markets",
    "concepts": [
     "multiples"
    ],
+   "lang": "en"
+  },
+  {
+   "id": "18qafe5",
+   "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+   "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-03T17:05:29.000Z",
+   "excerpt": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
+   "category": "ma",
+   "concepts": [],
    "lang": "en"
   },
   {
@@ -84,33 +152,6 @@
     "financial-statements",
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "im3t5p",
-   "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-   "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T14:43:43.000Z",
-   "excerpt": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "3b6wdu",
-   "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
-   "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T14:18:27.000Z",
-   "excerpt": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   },
   {
@@ -724,62 +765,6 @@
     "synergies",
     "ma-financing"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "1341no8",
-   "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-   "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T20:32:24.000Z",
-   "excerpt": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1nxr4bu",
-   "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-   "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T20:15:33.000Z",
-   "excerpt": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1d3xy3x",
-   "title": "JetBlue stock surges as company outlook calms investors",
-   "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T20:13:21.000Z",
-   "excerpt": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "4caihz",
-   "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
-   "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-27T17:53:47.000Z",
-   "excerpt": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   }
  ]
