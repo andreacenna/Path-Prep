@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T06:13:02.288Z",
+ "generatedAt": "2026-11-05T17:25:16.145Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,159 @@
   }
  ],
  "items": [
+  {
+   "id": "ark7u4",
+   "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+   "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T17:03:35.000Z",
+   "excerpt": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "16i9s4a",
+   "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+   "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T16:34:33.000Z",
+   "excerpt": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc",
+    "inflation"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "k9ttot",
+   "title": "Marc Lore's Wonder confidentially files for IPO",
+   "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T16:27:10.000Z",
+   "excerpt": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
+   "category": "capital-markets",
+   "concepts": [
+    "ipo"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1e2e2mz",
+   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-05T16:00:00.000Z",
+   "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1bdi5l4",
+   "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
+   "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T15:08:05.000Z",
+   "excerpt": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy.",
+   "category": "ma",
+   "concepts": [
+    "ev-equity",
+    "multiples",
+    "synergies",
+    "ma-financing"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1sbvxl7",
+   "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+   "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T13:17:00.000Z",
+   "excerpt": "These are the stocks posting the largest moves in early trading.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1tcl0w3",
+   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T12:57:10.000Z",
+   "excerpt": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "2fhwqi",
+   "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+   "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-05T12:00:00.000Z",
+   "excerpt": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "aw2vc6",
+   "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+   "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T11:00:01.000Z",
+   "excerpt": "Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "zjzuum",
+   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-05T08:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1vuz40q",
+   "title": "Piero Cipollone: Shaping the future of money",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-05T07:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "oolzao",
    "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
@@ -666,151 +819,6 @@
    "published": "2026-10-29T19:36:04.000Z",
    "excerpt": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
    "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "177r99k",
-   "title": "Stocks making the biggest moves midday: ADT, Alphabet, Caterpillar, Eli Lilly, Chipotle & more",
-   "link": "https://www.cnbc.com/2026/10/29/stocks-making-the-biggest-moves-midday-adt-googl-cat-lly-cmg.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T17:10:32.000Z",
-   "excerpt": "These are the stocks posting the largest moves midday.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "6ttscq",
-   "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-   "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T16:46:07.000Z",
-   "excerpt": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "2rasku",
-   "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-10-29T16:42:37.000Z",
-   "excerpt": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "nsd602",
-   "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-29T15:50:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1tcty3x",
-   "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-   "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T14:51:29.000Z",
-   "excerpt": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "t2od18",
-   "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-   "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-29T14:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "ezs17k",
-   "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
-   "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-10-29T14:00:00.000Z",
-   "excerpt": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up…",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "qohj9y",
-   "title": "Monetary policy decisions",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-29T13:15:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "ukwe88",
-   "title": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
-   "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T11:24:38.000Z",
-   "excerpt": "Merck's immunotherapy Keytruda, including a newer injectable form of the drug, showed stronger-than-expected sales.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1538gci",
-   "title": "ECB President Lagarde to step down on 7 February 2027",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-29T10:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1drf3w1",
-   "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-   "link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-10-29T10:00:00.000Z",
-   "excerpt": "The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.",
-   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   }
