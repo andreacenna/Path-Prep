@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:06:49.956Z",
+ "generatedAt": "2026-11-05T06:13:02.288Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,14 +46,55 @@
  ],
  "items": [
   {
+   "id": "oolzao",
+   "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+   "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T22:04:55.000Z",
+   "excerpt": "These are the stocks posting the largest moves after hours.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "aem0u9",
+   "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+   "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T21:47:22.000Z",
+   "excerpt": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "1rw6lz",
-   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories",
+   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T17:00:57.000Z",
+   "published": "2026-11-04T21:18:44.000Z",
    "excerpt": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
    "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "6n56a",
+   "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
+   "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T21:04:47.000Z",
+   "excerpt": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
+   "category": "ma",
    "concepts": [],
    "lang": "en"
   },
@@ -63,7 +104,7 @@
    "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T16:35:50.000Z",
+   "published": "2026-11-04T21:04:13.000Z",
    "excerpt": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
    "category": "ma",
    "concepts": [
@@ -71,6 +112,77 @@
     "multiples",
     "synergies",
     "ma-financing"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1am520r",
+   "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+   "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T21:02:53.000Z",
+   "excerpt": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1923bu3",
+   "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+   "link": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T19:58:41.000Z",
+   "excerpt": "Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1kx1faw",
+   "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+   "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T19:53:32.000Z",
+   "excerpt": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1mbz171",
+   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+   "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T18:37:11.000Z",
+   "excerpt": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "olkidu",
+   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+   "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-04T17:21:06.000Z",
+   "excerpt": "Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company.",
+   "category": "private-equity",
+   "concepts": [
+    "lbo",
+    "leverage",
+    "ev-equity",
+    "multiples"
    ],
    "lang": "en"
   },
@@ -84,50 +196,6 @@
    "excerpt": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
    "category": "regulation",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1mbz171",
-   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-   "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T15:45:51.000Z",
-   "excerpt": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "olkidu",
-   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-   "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T15:35:23.000Z",
-   "excerpt": "Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company.",
-   "category": "private-equity",
-   "concepts": [
-    "lbo",
-    "leverage",
-    "ev-equity",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1am520r",
-   "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
-   "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T15:05:28.000Z",
-   "excerpt": "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
    "lang": "en"
   },
   {
@@ -154,18 +222,6 @@
    "concepts": [
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "6n56a",
-   "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-   "link": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T12:08:15.000Z",
-   "excerpt": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   },
   {
@@ -756,89 +812,6 @@
    "excerpt": "The Bank of England has today launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.",
    "category": "central-banks",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "11km5ch",
-   "title": "America's largest budget airline reports 71% jump in airfare",
-   "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T23:51:38.000Z",
-   "excerpt": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1hbe55x",
-   "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-   "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T22:27:00.000Z",
-   "excerpt": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "78s39d",
-   "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-   "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T22:12:28.000Z",
-   "excerpt": "For the first time this year, low-income consumers during the quarter outperformed the high-income cohort at its restaurants, CEO Scott Boatwright said.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1f5bfl4",
-   "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-   "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T21:42:24.000Z",
-   "excerpt": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1ady7at",
-   "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-   "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-28T20:23:48.000Z",
-   "excerpt": "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-   "category": "equity-markets",
-   "concepts": [
-    "fx",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "6zc8h6",
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-10-28T18:00:00.000Z",
-   "excerpt": "Federal Reserve issues FOMC statement",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
    "lang": "en"
   }
  ]
