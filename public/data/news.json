@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T06:10:22.650Z",
+ "generatedAt": "2026-11-06T17:02:52.069Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,17 +46,94 @@
  ],
  "items": [
   {
+   "id": "yu52um",
+   "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+   "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-06T15:06:11.000Z",
+   "excerpt": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "15g98c3",
    "title": "Nasdaq drops into correction territory — here’s what typically happens next",
    "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T22:31:24.000Z",
+   "published": "2026-11-06T13:47:43.000Z",
    "excerpt": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
    "category": "equity-markets",
    "concepts": [
     "multiples"
    ],
+   "lang": "en"
+  },
+  {
+   "id": "mnngmn",
+   "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
+   "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-06T13:19:53.000Z",
+   "excerpt": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "18gkped",
+   "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
+   "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-06T13:05:50.000Z",
+   "excerpt": "These are some of the stocks posting the largest moves premarket.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "15dbbze",
+   "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+   "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-06T12:43:28.000Z",
+   "excerpt": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1epvsli",
+   "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+   "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-06T12:00:01.000Z",
+   "excerpt": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "5rwv76",
+   "title": "ECB publishes consolidated banking data for end-June 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-06T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
    "lang": "en"
   },
   {
@@ -684,86 +761,6 @@
    "published": "2026-10-30T18:45:35.000Z",
    "excerpt": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
    "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1wqwuck",
-   "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-   "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-30T16:55:41.000Z",
-   "excerpt": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "peqnya",
-   "title": "Philip R. Lane: AI adoption in Europe",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-30T16:10:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1i6jgl4",
-   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-30T14:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1ahig5f",
-   "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-   "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-30T13:29:50.000Z",
-   "excerpt": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "ecgslg",
-   "title": "Stocks making the biggest moves premarket: Intel, Amazon, Reddit, Chevron & more",
-   "link": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-premarket-intc-amzn-rddt-cvx.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-30T12:01:15.000Z",
-   "excerpt": "These are the stocks posting the largest moves premarket.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "6fyg39",
-   "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-10-30T09:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   }
