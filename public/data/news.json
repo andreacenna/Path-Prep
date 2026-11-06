@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T17:25:16.145Z",
+ "generatedAt": "2026-11-06T06:10:22.650Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,32 @@
   }
  ],
  "items": [
+  {
+   "id": "15g98c3",
+   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T22:31:24.000Z",
+   "excerpt": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "16jdlal",
+   "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+   "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-05T20:17:16.000Z",
+   "excerpt": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "ark7u4",
    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
@@ -738,87 +764,6 @@
    "published": "2026-10-30T09:00:00.000Z",
    "excerpt": "",
    "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1nimbqg",
-   "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-   "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T21:52:27.000Z",
-   "excerpt": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "88prbw",
-   "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-   "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T21:38:16.000Z",
-   "excerpt": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "ug2yu1",
-   "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-10-29T20:30:00.000Z",
-   "excerpt": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "mr3s7r",
-   "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-   "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T20:14:15.000Z",
-   "excerpt": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "ddfg4s",
-   "title": "Aon CEO warns AI data center insurance risks could threaten financing",
-   "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T20:12:29.000Z",
-   "excerpt": "Aon CEO Greg Case said concentration risk at AI data centers could constrain insurance capacity and alter financing for new projects.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "loilns",
-   "title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-   "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-29T19:36:04.000Z",
-   "excerpt": "Carnival is cutting fuel use, while Royal Caribbean and Norwegian rely on \"hedging\" to keep fuel costs down amid conflict in the Middle East.",
-   "category": "ma",
    "concepts": [],
    "lang": "en"
   }
