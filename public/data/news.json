@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T05:57:16.121Z",
+ "generatedAt": "2026-11-07T16:51:54.980Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,59 @@
   }
  ],
  "items": [
+  {
+   "id": "19jprs",
+   "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+   "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-07T16:02:33.000Z",
+   "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1q1qjs",
+   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-07T15:23:46.000Z",
+   "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "2c2jth",
+   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-07T14:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "wfcyn3",
+   "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+   "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-07T13:00:01.000Z",
+   "excerpt": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "15g98c3",
    "title": "Nasdaq drops into correction territory — here’s what typically happens next",
@@ -730,18 +783,6 @@
    "published": "2026-11-02T09:30:00.000Z",
    "excerpt": "",
    "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "upbfkb",
-   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
-   "link": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-10-31T12:47:08.000Z",
-   "excerpt": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
-   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   }
