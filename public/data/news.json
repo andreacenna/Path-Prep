@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-08T05:58:19.424Z",
+ "generatedAt": "2026-11-08T16:50:20.110Z",
  "sources": [
   {
    "name": "Federal Reserve",
    "url": "https://www.federalreserve.gov",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 12
   },
   {
    "name": "European Central Bank",
@@ -45,6 +45,30 @@
   }
  ],
  "items": [
+  {
+   "id": "1nxfxp2",
+   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-08T14:00:01.000Z",
+   "excerpt": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "gp43e9",
+   "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+   "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-08T13:00:01.000Z",
+   "excerpt": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "19jprs",
    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
