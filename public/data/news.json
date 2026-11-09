@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T06:19:31.242Z",
+ "generatedAt": "2026-11-09T17:20:17.640Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,54 @@
   }
  ],
  "items": [
+  {
+   "id": "1c2324b",
+   "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+   "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T16:39:12.000Z",
+   "excerpt": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "19jg6fd",
+   "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
+   "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T14:56:47.000Z",
+   "excerpt": "Goodyear Tire & Rubber appointed board member Roger Wood interim CEO and president, replacing Mark Stewart as the tire maker continues its turnaround plan.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "2vxrtw",
+   "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
+   "link": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T14:30:01.000Z",
+   "excerpt": "Lilly plans to file by the end of the year for U.S. approval of the daily pill for moderate-to-severe obstructive sleep apnea in adults with obesity.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1komyjq",
+   "title": "Restaurant chains refocus on food quality to bring back diners",
+   "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T12:00:01.000Z",
+   "excerpt": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "1nxfxp2",
    "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
@@ -770,44 +818,6 @@
    "concepts": [
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "9gqb7n",
-   "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-   "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-02T14:09:13.000Z",
-   "excerpt": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "7zemi5",
-   "title": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-premarket-crwd-rivn-mu.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-02T12:49:35.000Z",
-   "excerpt": "These are the stocks posting the largest moves in early trading.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "e7xie8",
-   "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-02T09:30:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
    "lang": "en"
   }
  ]
