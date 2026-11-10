@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T17:20:17.640Z",
+ "generatedAt": "2026-11-10T06:03:51.898Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,15 +46,131 @@
  ],
  "items": [
   {
+   "id": "17g4k4k",
+   "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+   "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T23:31:17.000Z",
+   "excerpt": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "bmc2p4",
+   "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+   "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T23:14:38.000Z",
+   "excerpt": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "7poj4w",
+   "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+   "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T23:05:53.000Z",
+   "excerpt": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "11icuji",
+   "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-09T21:00:00.000Z",
+   "excerpt": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1vprz15",
+   "title": "Children’s Place files for bankruptcy protection, seeks buyer",
+   "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T20:57:46.000Z",
+   "excerpt": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "5t5fpn",
+   "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+   "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T19:35:58.000Z",
+   "excerpt": "Boeing has been working to stabilize production rates of its bestselling 737 Max planes, which are made outside of Seattle.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1nxfxp2",
+   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T19:04:02.000Z",
+   "excerpt": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "1c2324b",
    "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
    "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-09T16:39:12.000Z",
+   "published": "2026-11-09T18:59:43.000Z",
    "excerpt": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1kp7lmu",
+   "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+   "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T18:46:01.000Z",
+   "excerpt": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "rs6yzw",
+   "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+   "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-09T18:14:47.000Z",
+   "excerpt": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
    "lang": "en"
   },
   {
@@ -89,18 +205,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-09T12:00:01.000Z",
    "excerpt": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1nxfxp2",
-   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
-   "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-08T14:00:01.000Z",
-   "excerpt": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
@@ -737,85 +841,6 @@
    "category": "earnings",
    "concepts": [
     "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "rscinx",
-   "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-   "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T13:40:04.000Z",
-   "excerpt": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1oc9tr6",
-   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T13:33:11.000Z",
-   "excerpt": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "ppyq2c",
-   "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
-   "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T12:47:45.000Z",
-   "excerpt": "These are the stocks posting the largest moves premarket.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "13mcha4",
-   "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
-   "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-11-03T10:00:00.000Z",
-   "excerpt": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1sg3rik",
-   "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-   "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-03T06:46:36.000Z",
-   "excerpt": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
-   "category": "private-equity",
-   "concepts": [
-    "lbo",
-    "leverage"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1u7jgi9",
-   "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-   "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-02T20:00:16.000Z",
-   "excerpt": "These are some of the stocks posting the largest moves midday.",
-   "category": "equity-markets",
-   "concepts": [
     "multiples"
    ],
    "lang": "en"
