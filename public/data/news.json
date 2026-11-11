@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T17:03:45.259Z",
+ "generatedAt": "2026-11-11T06:11:45.400Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,50 @@
  ],
  "items": [
   {
+   "id": "romc5i",
+   "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+   "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-11T03:08:17.000Z",
+   "excerpt": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "cki7v1",
+   "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+   "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-10T22:39:30.000Z",
+   "excerpt": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "dwjn86",
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-10T17:13:44.000Z",
+   "excerpt": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+   "category": "inflation",
+   "concepts": [
+    "inflation",
+    "monetary-policy"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "1h07hfu",
    "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
@@ -70,6 +114,20 @@
    "excerpt": "Americans may finally find some relief at the pump.",
    "category": "equity-markets",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "18hw53u",
+   "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-10T16:15:35.000Z",
+   "excerpt": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
    "lang": "en"
   },
   {
@@ -139,21 +197,6 @@
    "excerpt": "Exchange of letters between the Governor and the Chancellor",
    "category": "central-banks",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "dwjn86",
-   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T09:00:01.000Z",
-   "excerpt": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
    "lang": "en"
   },
   {
@@ -807,44 +850,6 @@
     "lbo",
     "leverage",
     "ev-equity",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "clfjlw",
-   "title": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-11-04T16:28:00.000Z",
-   "excerpt": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
-   "category": "regulation",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1rhx4ci",
-   "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
-   "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-11-04T14:51:45.000Z",
-   "excerpt": "The second meeting of the RTGS CHAPS Industry Forum",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "fn3dsk",
-   "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
-   "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T13:32:54.000Z",
-   "excerpt": "These are the stocks posting the largest moves in the premarket.",
-   "category": "equity-markets",
-   "concepts": [
     "multiples"
    ],
    "lang": "en"
