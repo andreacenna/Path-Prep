@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T06:11:45.400Z",
+ "generatedAt": "2026-11-11T17:08:14.669Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,12 +46,51 @@
  ],
  "items": [
   {
+   "id": "16idl63",
+   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-11T16:49:02.000Z",
+   "excerpt": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+   "category": "inflation",
+   "concepts": [
+    "inflation",
+    "monetary-policy"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1xvx09g",
+   "title": "JetBlue unveils new first class seats to bring back profits",
+   "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-11T16:27:18.000Z",
+   "excerpt": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "11cvm36",
+   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-11T15:14:53.000Z",
+   "excerpt": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "romc5i",
    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
    "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-11T03:08:17.000Z",
+   "published": "2026-11-11T07:47:54.000Z",
    "excerpt": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
    "category": "equity-markets",
    "concepts": [
@@ -808,50 +847,6 @@
    "excerpt": "Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1kx1faw",
-   "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-   "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T19:53:32.000Z",
-   "excerpt": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1mbz171",
-   "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-   "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T18:37:11.000Z",
-   "excerpt": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "olkidu",
-   "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-   "link": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-04T17:21:06.000Z",
-   "excerpt": "Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company.",
-   "category": "private-equity",
-   "concepts": [
-    "lbo",
-    "leverage",
-    "ev-equity",
-    "multiples"
-   ],
    "lang": "en"
   }
  ]
