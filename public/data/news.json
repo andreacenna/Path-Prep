@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T06:15:28.062Z",
+ "generatedAt": "2026-11-12T17:14:46.812Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,68 @@
   }
  ],
  "items": [
+  {
+   "id": "1w699tj",
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-12T16:00:00.000Z",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "7vr3cx",
+   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T15:36:02.000Z",
+   "excerpt": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "17b9kg9",
+   "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T15:08:45.000Z",
+   "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "y0pwmr",
+   "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+   "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T14:40:42.000Z",
+   "excerpt": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "wm3wls",
+   "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
+   "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T07:28:48.000Z",
+   "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "wxewy9",
    "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
@@ -632,159 +694,6 @@
    "published": "2026-11-05T20:17:16.000Z",
    "excerpt": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
    "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "ark7u4",
-   "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
-   "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T17:03:35.000Z",
-   "excerpt": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "16i9s4a",
-   "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-   "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T16:34:33.000Z",
-   "excerpt": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc",
-    "inflation"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "k9ttot",
-   "title": "Marc Lore's Wonder confidentially files for IPO",
-   "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T16:27:10.000Z",
-   "excerpt": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
-   "category": "capital-markets",
-   "concepts": [
-    "ipo"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1e2e2mz",
-   "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-05T16:00:00.000Z",
-   "excerpt": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1bdi5l4",
-   "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-   "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T15:08:05.000Z",
-   "excerpt": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy.",
-   "category": "ma",
-   "concepts": [
-    "ev-equity",
-    "multiples",
-    "synergies",
-    "ma-financing"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1sbvxl7",
-   "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
-   "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T13:17:00.000Z",
-   "excerpt": "These are the stocks posting the largest moves in early trading.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1tcl0w3",
-   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T12:57:10.000Z",
-   "excerpt": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "2fhwqi",
-   "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-   "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-11-05T12:00:00.000Z",
-   "excerpt": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "aw2vc6",
-   "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
-   "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T11:00:01.000Z",
-   "excerpt": "Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "zjzuum",
-   "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-05T08:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1vuz40q",
-   "title": "Piero Cipollone: Shaping the future of money",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-05T07:30:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   }
