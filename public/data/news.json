@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T06:12:58.922Z",
+ "generatedAt": "2026-11-13T17:06:35.216Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,61 @@
   }
  ],
  "items": [
+  {
+   "id": "bfv7fk",
+   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-13T16:57:00.000Z",
+   "excerpt": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "uqr8gm",
+   "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+   "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-13T14:22:07.000Z",
+   "excerpt": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
+   "category": "inflation",
+   "concepts": [
+    "inflation",
+    "monetary-policy"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "cz5vkt",
+   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+   "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-13T09:00:00.000Z",
+   "excerpt": "Joint media release",
+   "category": "central-banks",
+   "concepts": [
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1wkiiev",
+   "title": "Isabel Schnabel: Made in Europe",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-13T07:20:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "11excy3",
    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
@@ -657,83 +712,6 @@
    "concepts": [
     "bonds"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "yu52um",
-   "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-   "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T15:06:11.000Z",
-   "excerpt": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "mnngmn",
-   "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
-   "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T13:19:53.000Z",
-   "excerpt": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "18gkped",
-   "title": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
-   "link": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-premarket-moderna-airbnb-cloudflare-affirm-more.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T13:05:50.000Z",
-   "excerpt": "These are some of the stocks posting the largest moves premarket.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "15dbbze",
-   "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
-   "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T12:43:28.000Z",
-   "excerpt": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1epvsli",
-   "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
-   "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T12:00:01.000Z",
-   "excerpt": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "5rwv76",
-   "title": "ECB publishes consolidated banking data for end-June 2026",
-   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-06T09:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
    "lang": "en"
   }
  ]
