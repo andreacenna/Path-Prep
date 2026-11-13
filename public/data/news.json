@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:14:46.812Z",
+ "generatedAt": "2026-11-13T06:12:58.922Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,38 +46,24 @@
  ],
  "items": [
   {
-   "id": "1w699tj",
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-12T16:00:00.000Z",
-   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "7vr3cx",
-   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-   "source": "CNBC Business",
+   "id": "11excy3",
+   "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+   "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+   "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T15:36:02.000Z",
-   "excerpt": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-   "category": "ma",
+   "published": "2026-11-13T02:56:35.000Z",
+   "excerpt": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
   {
    "id": "17b9kg9",
-   "title": "Oil prices mixed after Trump says no Iran deal needed: 'We've got their Strait'",
+   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T15:08:45.000Z",
+   "published": "2026-11-13T00:01:19.000Z",
    "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
    "category": "equity-markets",
    "concepts": [],
@@ -89,10 +75,75 @@
    "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T14:40:42.000Z",
+   "published": "2026-11-12T22:17:05.000Z",
    "excerpt": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "smzqgt",
+   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T19:05:25.000Z",
+   "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ls5lcb",
+   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-12T18:30:00.000Z",
+   "excerpt": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "jhp1fo",
+   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-12T17:45:00.000Z",
+   "excerpt": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "7vr3cx",
+   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
+   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-12T17:23:25.000Z",
+   "excerpt": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1w699tj",
+   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-12T16:00:00.000Z",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
    "lang": "en"
   },
   {
@@ -682,18 +733,6 @@
    "published": "2026-11-06T09:00:00.000Z",
    "excerpt": "",
    "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "16jdlal",
-   "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-   "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-05T20:17:16.000Z",
-   "excerpt": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   }
