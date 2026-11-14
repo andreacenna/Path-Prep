@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:06:35.216Z",
+ "generatedAt": "2026-11-14T05:59:17.100Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,33 @@
   }
  ],
  "items": [
+  {
+   "id": "1swanvc",
+   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-13T23:42:18.000Z",
+   "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "o4vh81",
+   "title": "Agencies extend comment period for proposed third-party risk management guidance",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-13T21:15:00.000Z",
+   "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
   {
    "id": "bfv7fk",
    "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
@@ -669,49 +696,6 @@
    "excerpt": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "15g98c3",
-   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T20:42:28.000Z",
-   "excerpt": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "ll6ft7",
-   "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-   "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T19:05:00.000Z",
-   "excerpt": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "7dymy6",
-   "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-   "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-06T17:09:53.000Z",
-   "excerpt": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
-   "category": "capital-markets",
-   "concepts": [
-    "bonds"
-   ],
    "lang": "en"
   }
  ]
