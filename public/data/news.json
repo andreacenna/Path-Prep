@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T05:59:17.100Z",
+ "generatedAt": "2026-11-14T16:52:22.993Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,49 @@
   }
  ],
  "items": [
+  {
+   "id": "23hhpe",
+   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-14T15:50:43.000Z",
+   "excerpt": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "wf890c",
+   "title": "Retailers are turning to entertainment to win shoppers’ attention",
+   "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-14T13:00:01.000Z",
+   "excerpt": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1xt70yq",
+   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-14T12:00:01.000Z",
+   "excerpt": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+   "category": "ma",
+   "concepts": [
+    "ev-equity",
+    "multiples",
+    "synergies",
+    "ma-financing"
+   ],
+   "lang": "en"
+  },
   {
    "id": "1swanvc",
    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -429,6 +472,20 @@
    "lang": "en"
   },
   {
+   "id": "1xennfv",
+   "title": "How GM is trying to talk used car shoppers into buying new vehicles",
+   "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-10T13:00:01.000Z",
+   "excerpt": "Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "t7bo1g",
    "title": "Polymarket says annualized revenue has topped $1.8 billion",
    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
@@ -439,20 +496,6 @@
    "category": "earnings",
    "concepts": [
     "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1xennfv",
-   "title": "How GM is trying to talk used car shoppers into buying new vehicles",
-   "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T13:00:01.000Z",
-   "excerpt": "Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.",
-   "category": "equity-markets",
-   "concepts": [
     "multiples"
    ],
    "lang": "en"
@@ -641,59 +684,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-08T13:00:01.000Z",
    "excerpt": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "19jprs",
-   "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-   "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-07T16:02:33.000Z",
-   "excerpt": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1q1qjs",
-   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-   "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-07T15:23:46.000Z",
-   "excerpt": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "2c2jth",
-   "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-07T14:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "wfcyn3",
-   "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
-   "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-07T13:00:01.000Z",
-   "excerpt": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
