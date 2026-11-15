@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:02:03.891Z",
+ "generatedAt": "2026-11-15T16:53:24.263Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,18 @@
   }
  ],
  "items": [
+  {
+   "id": "yyg37m",
+   "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+   "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-15T13:00:02.000Z",
+   "excerpt": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "23hhpe",
    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
@@ -672,18 +684,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-09T12:00:01.000Z",
    "excerpt": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "gp43e9",
-   "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-   "link": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-08T13:00:01.000Z",
-   "excerpt": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
    "category": "ma",
    "concepts": [],
    "lang": "en"
