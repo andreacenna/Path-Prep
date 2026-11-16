@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T16:53:24.263Z",
+ "generatedAt": "2026-11-16T06:37:29.823Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,30 @@
   }
  ],
  "items": [
+  {
+   "id": "9z3aq7",
+   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+   "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T03:53:59.000Z",
+   "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1swanvc",
+   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-15T19:58:21.000Z",
+   "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "yyg37m",
    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
@@ -98,18 +122,6 @@
     "synergies",
     "ma-financing"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "1swanvc",
-   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-13T23:42:18.000Z",
-   "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-   "category": "equity-markets",
-   "concepts": [],
    "lang": "en"
   },
   {
