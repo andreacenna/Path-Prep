@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T06:37:29.823Z",
+ "generatedAt": "2026-11-16T17:25:25.407Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,14 +46,79 @@
  ],
  "items": [
   {
-   "id": "9z3aq7",
-   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-   "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+   "id": "1t382x2",
+   "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+   "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T03:53:59.000Z",
-   "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+   "published": "2026-11-16T17:18:53.000Z",
+   "excerpt": "",
    "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1xt70yq",
+   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T17:14:13.000Z",
+   "excerpt": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+   "category": "ma",
+   "concepts": [
+    "ev-equity",
+    "multiples",
+    "synergies",
+    "ma-financing"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1hqnupv",
+   "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
+   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T16:17:39.000Z",
+   "excerpt": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1rqqdte",
+   "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+   "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T15:56:39.000Z",
+   "excerpt": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1svbce9",
+   "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
+   "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T15:00:01.000Z",
+   "excerpt": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "t2oceu",
+   "title": "Frank Elderson: Smart supervision for small banks",
+   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-16T13:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   },
@@ -63,8 +128,60 @@
    "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-15T19:58:21.000Z",
+   "published": "2026-11-16T12:14:46.000Z",
    "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "23hhpe",
+   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T12:13:23.000Z",
+   "excerpt": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1kjttwz",
+   "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
+   "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T12:00:01.000Z",
+   "excerpt": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "r9td4v",
+   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-16T08:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "9z3aq7",
+   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+   "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-16T03:53:59.000Z",
+   "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
    "category": "equity-markets",
    "concepts": [],
    "lang": "en"
@@ -82,20 +199,6 @@
    "lang": "en"
   },
   {
-   "id": "23hhpe",
-   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-14T15:50:43.000Z",
-   "excerpt": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
    "id": "wf890c",
    "title": "Retailers are turning to entertainment to win shoppers’ attention",
    "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
@@ -105,23 +208,6 @@
    "excerpt": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1xt70yq",
-   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-14T12:00:01.000Z",
-   "excerpt": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-   "category": "ma",
-   "concepts": [
-    "ev-equity",
-    "multiples",
-    "synergies",
-    "ma-financing"
-   ],
    "lang": "en"
   },
   {
@@ -662,42 +748,6 @@
    "concepts": [
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "19jg6fd",
-   "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
-   "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-09T14:56:47.000Z",
-   "excerpt": "Goodyear Tire & Rubber appointed board member Roger Wood interim CEO and president, replacing Mark Stewart as the tire maker continues its turnaround plan.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "2vxrtw",
-   "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
-   "link": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-09T14:30:01.000Z",
-   "excerpt": "Lilly plans to file by the end of the year for U.S. approval of the daily pill for moderate-to-severe obstructive sleep apnea in adults with obesity.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1komyjq",
-   "title": "Restaurant chains refocus on food quality to bring back diners",
-   "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-09T12:00:01.000Z",
-   "excerpt": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   }
  ]
