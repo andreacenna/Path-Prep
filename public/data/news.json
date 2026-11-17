@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:13:05.924Z",
+ "generatedAt": "2026-11-17T17:16:37.296Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,13 +46,37 @@
  ],
  "items": [
   {
+   "id": "1oirbif",
+   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T17:09:09.000Z",
+   "excerpt": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1mhp6aq",
+   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T17:02:34.000Z",
+   "excerpt": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "a9sg6x",
-   "title": "Here's what to expect when Disney reports earnings before the bell",
+   "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
    "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T05:01:01.000Z",
-   "excerpt": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wide layoffs.",
+   "published": "2026-11-17T16:40:25.000Z",
+   "excerpt": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
@@ -61,14 +85,53 @@
    "lang": "en"
   },
   {
+   "id": "10xr2vy",
+   "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T15:27:51.000Z",
+   "excerpt": "Home Depot named Richard McPhail as its new CEO effective next week.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "iixs98",
+   "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
+   "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T14:00:02.000Z",
+   "excerpt": "Republicans slightly outspent Democrats for the first time as Democrats swept national and state elections.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "nl9dr6",
    "title": "United Airlines resolves system outage that affected departing flights",
    "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T00:00:49.000Z",
+   "published": "2026-11-17T13:57:47.000Z",
    "excerpt": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
    "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "oyijqi",
+   "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+   "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T08:52:45.000Z",
+   "excerpt": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
@@ -562,131 +625,6 @@
     "financial-statements",
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "dwjn86",
-   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T17:13:44.000Z",
-   "excerpt": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1h07hfu",
-   "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-10T16:45:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "vf2w4o",
-   "title": "U.S. gas prices fall below $4 for the first time since July",
-   "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T16:29:09.000Z",
-   "excerpt": "Americans may finally find some relief at the pump.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "18hw53u",
-   "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-11-10T16:15:35.000Z",
-   "excerpt": "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the SEC’s Division of Enforcement remained focused on its fundamental responsibility: protecting…",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1wa13sp",
-   "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-   "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T15:11:48.000Z",
-   "excerpt": "Rivian CEO RJ Scaringe says 2027 will be an “inflection year” as the EV maker scales R2 and invests in autonomy.",
-   "category": "capital-markets",
-   "concepts": [
-    "ipo"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "keaxiy",
-   "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-10T14:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "fx"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1xennfv",
-   "title": "How GM is trying to talk used car shoppers into buying new vehicles",
-   "link": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T13:00:01.000Z",
-   "excerpt": "Automakers say that substantial shares of the customers walking into a dealership looking for certified used cars end up buying new. Here's how it works.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "t7bo1g",
-   "title": "Polymarket says annualized revenue has topped $1.8 billion",
-   "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T13:00:01.000Z",
-   "excerpt": "Amid growth of its U.S. exchange, the prediction market platform’s current annual run-rate is $1.8 billion.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "165mtoy",
-   "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-   "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-11-10T12:00:00.000Z",
-   "excerpt": "Exchange of letters between the Governor and the Chancellor",
-   "category": "central-banks",
-   "concepts": [],
    "lang": "en"
   }
  ]
