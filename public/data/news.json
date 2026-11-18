@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T06:17:48.438Z",
+ "generatedAt": "2026-11-18T17:18:16.116Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,13 +46,143 @@
  ],
  "items": [
   {
-   "id": "wzx5sf",
-   "title": "Three things to watch as Trump, Xi and Putin meet in China",
-   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+   "id": "688h6i",
+   "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+   "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T17:02:53.000Z",
+   "excerpt": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese battery giant CATL.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ubafvn",
+   "title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
+   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T16:34:33.000Z",
+   "excerpt": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "kwkmu7",
+   "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+   "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T06:04:39.000Z",
-   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+   "published": "2026-11-18T16:33:14.000Z",
+   "excerpt": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "fasbwx",
+   "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T16:14:10.000Z",
+   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "198d5h3",
+   "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+   "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T15:39:06.000Z",
+   "excerpt": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "11uytit",
+   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+   "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T15:13:39.000Z",
+   "excerpt": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc",
+    "inflation"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "zff14a",
+   "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
+   "link": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T14:02:52.000Z",
+   "excerpt": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+, vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ljbh72",
+   "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
+   "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T12:55:01.000Z",
+   "excerpt": "The future for online travel agencies increasingly relies on scaling business-to-business travel platforms.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1lav3nt",
+   "title": "Boris Vujčić: Financial Stability Review - November 2026",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-18T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "zv3mlz",
+   "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-18T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "wxpzki",
+   "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T08:29:35.000Z",
+   "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
    "category": "equity-markets",
    "concepts": [],
    "lang": "en"
@@ -63,35 +193,20 @@
    "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T05:46:17.000Z",
+   "published": "2026-11-18T06:18:11.000Z",
    "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
    "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
   {
-   "id": "ubafvn",
-   "title": "Target is set to report earnings before the bell. Here's what to expect",
-   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T05:01:01.000Z",
-   "excerpt": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "wxpzki",
-   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "id": "wzx5sf",
+   "title": "Three things to watch as Trump, Xi and Putin meet in China",
+   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T04:27:45.000Z",
-   "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+   "published": "2026-11-18T06:04:39.000Z",
+   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
    "category": "equity-markets",
    "concepts": [],
    "lang": "en"
@@ -647,47 +762,6 @@
    "excerpt": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
    "category": "equity-markets",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "16idl63",
-   "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-11T16:49:02.000Z",
-   "excerpt": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "11cvm36",
-   "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
-   "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-11T15:14:53.000Z",
-   "excerpt": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "romc5i",
-   "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-   "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-11T07:47:54.000Z",
-   "excerpt": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
    "lang": "en"
   }
  ]
