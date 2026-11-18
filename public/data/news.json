@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:16:37.296Z",
+ "generatedAt": "2026-11-18T06:17:48.438Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,14 +46,53 @@
  ],
  "items": [
   {
-   "id": "1oirbif",
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+   "id": "wzx5sf",
+   "title": "Three things to watch as Trump, Xi and Putin meet in China",
+   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T06:04:39.000Z",
+   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1ulxmfe",
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T05:46:17.000Z",
+   "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "ubafvn",
+   "title": "Target is set to report earnings before the bell. Here's what to expect",
+   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T17:09:09.000Z",
-   "excerpt": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
-   "category": "ma",
+   "published": "2026-11-18T05:01:01.000Z",
+   "excerpt": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "wxpzki",
+   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+   "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-18T04:27:45.000Z",
+   "excerpt": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
@@ -63,10 +102,64 @@
    "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T17:02:34.000Z",
+   "published": "2026-11-17T22:17:44.000Z",
    "excerpt": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
    "category": "ma",
    "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1oirbif",
+   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T22:02:05.000Z",
+   "excerpt": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "13f6wan",
+   "title": "FAA pauses installation of new routers after ground stop",
+   "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T20:53:24.000Z",
+   "excerpt": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "10xr2vy",
+   "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-17T20:01:12.000Z",
+   "excerpt": "Home Depot named Richard McPhail as its new CEO effective next week.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "olhxh1",
+   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-17T18:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
    "lang": "en"
   },
   {
@@ -77,21 +170,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-17T16:40:25.000Z",
    "excerpt": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "10xr2vy",
-   "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T15:27:51.000Z",
-   "excerpt": "Home Depot named Richard McPhail as its new CEO effective next week.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
@@ -608,21 +686,6 @@
    "excerpt": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
    "category": "equity-markets",
    "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "cki7v1",
-   "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-   "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-10T22:39:30.000Z",
-   "excerpt": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
     "multiples"
    ],
    "lang": "en"
