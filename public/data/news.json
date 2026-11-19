@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T06:15:11.246Z",
+ "generatedAt": "2026-11-19T17:18:21.622Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,17 +46,84 @@
  ],
  "items": [
   {
+   "id": "1088j70",
+   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-19T16:00:00.000Z",
+   "excerpt": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "n5f798",
+   "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-19T14:39:02.000Z",
+   "excerpt": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
    "id": "1s20jnc",
-   "title": "Walmart is set to report earnings before the bell. Here's what to expect",
+   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
    "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
    "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-19T05:01:01.000Z",
-   "excerpt": "Walmart is expected to offer color on consumer spending ahead of the holiday season as customers lean into value and convenience.",
+   "published": "2026-11-19T13:23:50.000Z",
+   "excerpt": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "12jpf0h",
+   "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-19T09:02:00.000Z",
+   "excerpt": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1w2m52m",
+   "title": "Cyber resilience guidance consultation and AI and quantum effective practices",
+   "link": "https://www.bankofengland.co.uk/news/2026/november/cyber-resilience-guidance-consultation-and-ai-and-quantum-effective-practices",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-19T08:00:00.000Z",
+   "excerpt": "UK’s financial regulators are proposing a new guidance to help financial services firms prepare for and recover from cyber incidents as threats grow.",
    "category": "earnings",
    "concepts": [
     "financial-statements",
     "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1vsidbr",
+   "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+   "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-19T07:30:00.000Z",
+   "excerpt": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
    ],
    "lang": "en"
   },
@@ -742,32 +809,6 @@
    "published": "2026-11-12T17:23:25.000Z",
    "excerpt": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
    "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1w699tj",
-   "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-12T16:00:00.000Z",
-   "excerpt": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "wm3wls",
-   "title": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
-   "link": "https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T07:28:48.000Z",
-   "excerpt": "China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy.",
-   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   }
