@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T17:18:21.622Z",
+ "generatedAt": "2026-11-20T06:18:23.270Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,33 @@
  ],
  "items": [
   {
+   "id": "1ideri4",
+   "title": "Gap names new Athleta CEO, lowers full-year guidance",
+   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-19T23:54:20.000Z",
+   "excerpt": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1s20jnc",
+   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+   "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-19T19:58:30.000Z",
+   "excerpt": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "1088j70",
    "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -71,18 +98,6 @@
    "concepts": [
     "disclosure"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "1s20jnc",
-   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-   "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-19T13:23:50.000Z",
-   "excerpt": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-   "category": "ma",
-   "concepts": [],
    "lang": "en"
   },
   {
@@ -722,93 +737,6 @@
    "published": "2026-11-13T07:20:00.000Z",
    "excerpt": "",
    "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "11excy3",
-   "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-   "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-13T02:56:35.000Z",
-   "excerpt": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "17b9kg9",
-   "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-   "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-13T00:01:19.000Z",
-   "excerpt": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "y0pwmr",
-   "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-   "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T22:17:05.000Z",
-   "excerpt": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "smzqgt",
-   "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T19:05:25.000Z",
-   "excerpt": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1ls5lcb",
-   "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-12T18:30:00.000Z",
-   "excerpt": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "jhp1fo",
-   "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-12T17:45:00.000Z",
-   "excerpt": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "7vr3cx",
-   "title": "Disney's 'Star Wars' is coming to Cosm domes ahead of 50th anniversary as part of multiyear film deal",
-   "link": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-12T17:23:25.000Z",
-   "excerpt": "Cosm has secured a new studio partnership with Disney that will bring \"Star Wars: A New Hope\" to its domes as part of a multiyear, multifilm collaboration.",
-   "category": "ma",
    "concepts": [],
    "lang": "en"
   }
