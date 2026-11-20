@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T06:18:23.270Z",
+ "generatedAt": "2026-11-20T17:11:16.430Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,121 @@
   }
  ],
  "items": [
+  {
+   "id": "1elevuc",
+   "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+   "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T15:50:27.000Z",
+   "excerpt": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "958drd",
+   "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T15:20:54.000Z",
+   "excerpt": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "11bm8c4",
+   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-20T15:00:00.000Z",
+   "excerpt": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1bhtk17",
+   "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-20T14:28:28.000Z",
+   "excerpt": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
+   "category": "regulation",
+   "concepts": [
+    "disclosure",
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1xobymj",
+   "title": "The bull market has a new problem. The 'smart money' is selling",
+   "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T14:15:29.000Z",
+   "excerpt": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+   "category": "capital-markets",
+   "concepts": [
+    "ipo",
+    "bonds",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "13k4gf3",
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T13:29:50.000Z",
+   "excerpt": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "138kbss",
+   "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
+   "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T12:00:02.000Z",
+   "excerpt": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1gnp56e",
+   "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
+   "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T12:00:02.000Z",
+   "excerpt": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "iiodju",
+   "title": "Christine Lagarde: Acting in time",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-20T08:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "1ideri4",
    "title": "Gap names new Athleta CEO, lowers full-year guidance",
@@ -683,61 +798,6 @@
     "financial-statements",
     "multiples"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "bfv7fk",
-   "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-11-13T16:57:00.000Z",
-   "excerpt": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
-   "category": "regulation",
-   "concepts": [
-    "disclosure"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "uqr8gm",
-   "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-   "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-13T14:22:07.000Z",
-   "excerpt": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-   "category": "inflation",
-   "concepts": [
-    "inflation",
-    "monetary-policy"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "cz5vkt",
-   "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
-   "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-   "source": "Bank of England",
-   "sourceHome": "https://www.bankofengland.co.uk",
-   "published": "2026-11-13T09:00:00.000Z",
-   "excerpt": "Joint media release",
-   "category": "central-banks",
-   "concepts": [
-    "fx"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1wkiiev",
-   "title": "Isabel Schnabel: Made in Europe",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-13T07:20:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
    "lang": "en"
   }
  ]
