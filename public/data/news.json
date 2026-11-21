@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:11:16.430Z",
+ "generatedAt": "2026-11-21T06:06:38.640Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,14 +46,14 @@
  ],
  "items": [
   {
-   "id": "1elevuc",
-   "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-   "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T15:50:27.000Z",
-   "excerpt": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-   "category": "ma",
+   "id": "413kh5",
+   "title": "Federal Reserve announces College Fed Challenge winners",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-20T21:15:00.000Z",
+   "excerpt": "Federal Reserve announces College Fed Challenge winners",
+   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   },
@@ -63,9 +63,62 @@
    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
    "source": "CNBC Finance",
    "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T15:20:54.000Z",
+   "published": "2026-11-20T21:10:48.000Z",
    "excerpt": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
    "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1ideri4",
+   "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T21:04:48.000Z",
+   "excerpt": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "rujy5w",
+   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T19:59:03.000Z",
+   "excerpt": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+   "category": "equity-markets",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "3zr8iz",
+   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+   "source": "U.S. SEC",
+   "sourceHome": "https://www.sec.gov",
+   "published": "2026-11-20T18:03:24.000Z",
+   "excerpt": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
+   "category": "regulation",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1elevuc",
+   "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+   "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-20T15:50:27.000Z",
+   "excerpt": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+   "category": "ma",
    "concepts": [],
    "lang": "en"
   },
@@ -158,21 +211,6 @@
    "excerpt": "",
    "category": "central-banks",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1ideri4",
-   "title": "Gap names new Athleta CEO, lowers full-year guidance",
-   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-19T23:54:20.000Z",
-   "excerpt": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
    "lang": "en"
   },
   {
@@ -783,21 +821,6 @@
    "excerpt": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "o4vh81",
-   "title": "Agencies extend comment period for proposed third-party risk management guidance",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-13T21:15:00.000Z",
-   "excerpt": "Agencies extend comment period for proposed third-party risk management guidance",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
    "lang": "en"
   }
  ]
