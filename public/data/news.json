@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T06:06:38.640Z",
+ "generatedAt": "2026-11-21T16:58:34.544Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,30 @@
   }
  ],
  "items": [
+  {
+   "id": "1pjtra0",
+   "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+   "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-21T12:00:01.000Z",
+   "excerpt": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "fddtba",
+   "title": "How China is using summits to expand its global influence",
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-21T06:00:02.000Z",
+   "excerpt": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "413kh5",
    "title": "Federal Reserve announces College Fed Challenge winners",
@@ -796,30 +820,6 @@
    "published": "2026-11-16T03:53:59.000Z",
    "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
    "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "yyg37m",
-   "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-   "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-15T13:00:02.000Z",
-   "excerpt": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "wf890c",
-   "title": "Retailers are turning to entertainment to win shoppers’ attention",
-   "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-14T13:00:01.000Z",
-   "excerpt": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
-   "category": "ma",
    "concepts": [],
    "lang": "en"
   }
