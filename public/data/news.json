@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T06:08:24.581Z",
+ "generatedAt": "2026-11-22T16:58:15.514Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,18 @@
   }
  ],
  "items": [
+  {
+   "id": "92ft3b",
+   "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+   "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-22T13:00:01.000Z",
+   "excerpt": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "1pjtra0",
    "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
@@ -809,18 +821,6 @@
    "concepts": [
     "fx"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "9z3aq7",
-   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-   "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T03:53:59.000Z",
-   "excerpt": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-   "category": "equity-markets",
-   "concepts": [],
    "lang": "en"
   }
  ]
