@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T06:19:44.727Z",
+ "generatedAt": "2026-11-23T17:16:18.906Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,45 @@
   }
  ],
  "items": [
+  {
+   "id": "pvpk0g",
+   "title": "Philip R. Lane: Climate change and monetary policy",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-23T14:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "18dyl5",
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-23T10:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "k8r6q6",
+   "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+   "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-23T10:00:00.000Z",
+   "excerpt": "The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "h29rxb",
    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -727,97 +766,6 @@
    "published": "2026-11-16T18:46:07.000Z",
    "excerpt": "",
    "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1xt70yq",
-   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T17:14:13.000Z",
-   "excerpt": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-   "category": "ma",
-   "concepts": [
-    "ev-equity",
-    "multiples",
-    "synergies",
-    "ma-financing"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1rqqdte",
-   "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-   "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T15:56:39.000Z",
-   "excerpt": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1svbce9",
-   "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-   "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T15:00:01.000Z",
-   "excerpt": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "t2oceu",
-   "title": "Frank Elderson: Smart supervision for small banks",
-   "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-16T13:00:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1swanvc",
-   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T12:14:46.000Z",
-   "excerpt": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "23hhpe",
-   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T12:13:23.000Z",
-   "excerpt": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1kjttwz",
-   "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-   "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T12:00:01.000Z",
-   "excerpt": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
-   "category": "ma",
    "concepts": [],
    "lang": "en"
   }
