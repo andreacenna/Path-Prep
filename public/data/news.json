@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T16:58:15.514Z",
+ "generatedAt": "2026-11-23T06:19:44.727Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,18 @@
   }
  ],
  "items": [
+  {
+   "id": "h29rxb",
+   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-22T18:55:05.000Z",
+   "excerpt": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "92ft3b",
    "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
@@ -807,20 +819,6 @@
    "excerpt": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "r9td4v",
-   "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-16T08:30:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "fx"
-   ],
    "lang": "en"
   }
  ]
