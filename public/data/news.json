@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T06:10:02.916Z",
+ "generatedAt": "2026-11-24T17:14:01.829Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,73 @@
  ],
  "items": [
   {
+   "id": "kzt7wy",
+   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+   "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+   "source": "Bank of England",
+   "sourceHome": "https://www.bankofengland.co.uk",
+   "published": "2026-11-24T16:00:00.000Z",
+   "excerpt": "Daniel E. Pinto has been appointed as an external member of the Financial Policy Committee.",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1e9xgm7",
+   "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+   "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T14:51:58.000Z",
+   "excerpt": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "gjyjr",
+   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T13:33:26.000Z",
+   "excerpt": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc",
+    "inflation"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1ie090b",
+   "title": "Some U.S. food banks see demand top pandemic levels",
+   "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T12:00:01.000Z",
+   "excerpt": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1qzknds",
+   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
+   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-24T11:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "h29rxb",
    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
    "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
@@ -67,22 +134,6 @@
    "excerpt": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
    "category": "ma",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "gjyjr",
-   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-23T21:02:17.000Z",
-   "excerpt": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc",
-    "inflation"
-   ],
    "lang": "en"
   },
   {
@@ -692,57 +743,6 @@
     "monetary-policy",
     "wacc"
    ],
-   "lang": "en"
-  },
-  {
-   "id": "a9sg6x",
-   "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-   "link": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T16:40:25.000Z",
-   "excerpt": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "iixs98",
-   "title": "Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz",
-   "link": "https://www.cnbc.com/2026/11/17/2026-election-political-ad-spending.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T14:00:02.000Z",
-   "excerpt": "Republicans slightly outspent Democrats for the first time as Democrats swept national and state elections.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "nl9dr6",
-   "title": "United Airlines resolves system outage that affected departing flights",
-   "link": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T13:57:47.000Z",
-   "excerpt": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "oyijqi",
-   "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-   "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T08:52:45.000Z",
-   "excerpt": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-   "category": "equity-markets",
-   "concepts": [],
    "lang": "en"
   }
  ]
