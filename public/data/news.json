@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:16:18.906Z",
+ "generatedAt": "2026-11-24T06:10:02.916Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -46,6 +46,58 @@
  ],
  "items": [
   {
+   "id": "h29rxb",
+   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-23T23:28:19.000Z",
+   "excerpt": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1quq0y0",
+   "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+   "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-23T21:55:27.000Z",
+   "excerpt": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "gjyjr",
+   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-23T21:02:17.000Z",
+   "excerpt": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc",
+    "inflation"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "l12kf5",
+   "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-23T18:00:47.000Z",
+   "excerpt": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
    "id": "pvpk0g",
    "title": "Philip R. Lane: Climate change and monetary policy",
    "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
@@ -81,18 +133,6 @@
    "published": "2026-11-23T10:00:00.000Z",
    "excerpt": "The Prudential Regulation Authority (PRA) has today published the results of its 2026 Dynamic General Insurance Stress Test (DyGIST)",
    "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "h29rxb",
-   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-22T18:55:05.000Z",
-   "excerpt": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-   "category": "equity-markets",
    "concepts": [],
    "lang": "en"
   },
@@ -701,70 +741,6 @@
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-17T08:52:45.000Z",
    "excerpt": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "bpwrkl",
-   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-   "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T23:01:19.000Z",
-   "excerpt": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1hqnupv",
-   "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-   "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T22:19:02.000Z",
-   "excerpt": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "je2eyj",
-   "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
-   "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T22:14:47.000Z",
-   "excerpt": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "llv2s0",
-   "title": "Robert Pattinson cast as next James Bond",
-   "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T21:03:36.000Z",
-   "excerpt": "Pattinson has been in major films this year, including Christopher Nolan's \"The Odyssey,\" and will soon appear in \"Dune: Part Three.\"",
-   "category": "capital-markets",
-   "concepts": [
-    "bonds"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1t382x2",
-   "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-   "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-16T18:46:07.000Z",
-   "excerpt": "",
    "category": "equity-markets",
    "concepts": [],
    "lang": "en"
