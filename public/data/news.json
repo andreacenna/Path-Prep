@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:14:01.829Z",
+ "generatedAt": "2026-11-25T06:11:16.103Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,71 @@
   }
  ],
  "items": [
+  {
+   "id": "1w6hgyx",
+   "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+   "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-25T01:13:56.000Z",
+   "excerpt": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1w8eqrx",
+   "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+   "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T23:03:24.000Z",
+   "excerpt": "The product, the first one beyond event contracts, was introduced in May.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1q78jse",
+   "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+   "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T20:45:57.000Z",
+   "excerpt": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+   "category": "regulation",
+   "concepts": [
+    "disclosure"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "4g0h8v",
+   "title": "Retail turnarounds are taking hold just in time for the holiday season",
+   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-24T19:26:39.000Z",
+   "excerpt": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+   "category": "earnings",
+   "concepts": [
+    "financial-statements",
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "uvoumr",
+   "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-24T19:00:00.000Z",
+   "excerpt": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "kzt7wy",
    "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
@@ -665,84 +730,6 @@
    "excerpt": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
    "category": "equity-markets",
    "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "wzx5sf",
-   "title": "Three things to watch as Trump, Xi and Putin meet in China",
-   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T06:04:39.000Z",
-   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1mhp6aq",
-   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
-   "link": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T22:17:44.000Z",
-   "excerpt": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1oirbif",
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "link": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T22:02:05.000Z",
-   "excerpt": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "13f6wan",
-   "title": "FAA pauses installation of new routers after ground stop",
-   "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T20:53:24.000Z",
-   "excerpt": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "10xr2vy",
-   "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-17T20:01:12.000Z",
-   "excerpt": "Home Depot named Richard McPhail as its new CEO effective next week.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "olhxh1",
-   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-17T18:30:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc"
-   ],
    "lang": "en"
   }
  ]
