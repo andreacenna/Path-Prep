@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T17:15:24.917Z",
+ "generatedAt": "2026-11-26T06:09:31.492Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,85 @@
   }
  ],
  "items": [
+  {
+   "id": "10lqyng",
+   "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+   "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-26T05:36:01.000Z",
+   "excerpt": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+   "category": "macro",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "c3d1jp",
+   "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+   "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-25T22:26:56.000Z",
+   "excerpt": "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+   "category": "ma",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1au5azj",
+   "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-25T20:00:00.000Z",
+   "excerpt": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "category": "central-banks",
+   "concepts": [
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "2a6dum",
+   "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+   "source": "Federal Reserve",
+   "sourceHome": "https://www.federalreserve.gov",
+   "published": "2026-11-25T20:00:00.000Z",
+   "excerpt": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "category": "central-banks",
+   "concepts": [
+    "fx"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1r0xck",
+   "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-25T17:30:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1wvv1oq",
+   "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+   "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-25T17:08:03.000Z",
+   "excerpt": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+   "category": "capital-markets",
+   "concepts": [
+    "ipo",
+    "multiples"
+   ],
+   "lang": "en"
+  },
   {
    "id": "1w6hgyx",
    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
@@ -597,88 +676,6 @@
    "concepts": [
     "monetary-policy",
     "wacc"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "fasbwx",
-   "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T19:47:05.000Z",
-   "excerpt": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "18eqi13",
-   "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-   "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T19:41:59.000Z",
-   "excerpt": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-   "category": "central-banks",
-   "concepts": [
-    "monetary-policy",
-    "wacc",
-    "inflation"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1uwq32m",
-   "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-18T19:00:00.000Z",
-   "excerpt": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "198d5h3",
-   "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-   "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T18:27:52.000Z",
-   "excerpt": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1j1jj7e",
-   "title": "Investigators make progress in hunt for cause of FAA ground stop",
-   "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T18:13:25.000Z",
-   "excerpt": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "ubafvn",
-   "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
-   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-18T17:56:50.000Z",
-   "excerpt": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
    ],
    "lang": "en"
   }
