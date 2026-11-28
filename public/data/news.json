@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T06:15:01.707Z",
+ "generatedAt": "2026-11-28T00:04:20.958Z",
  "sources": [
   {
    "name": "Federal Reserve",
@@ -45,6 +45,74 @@
   }
  ],
  "items": [
+  {
+   "id": "1g7m633",
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+   "source": "CNBC Business",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-27T22:00:57.000Z",
+   "excerpt": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "category": "inflation",
+   "concepts": [
+    "inflation",
+    "monetary-policy"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "ovf6ie",
+   "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-27T14:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [
+    "monetary-policy",
+    "wacc"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "16ty4ck",
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-27T13:29:43.000Z",
+   "excerpt": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+   "category": "equity-markets",
+   "concepts": [],
+   "lang": "en"
+  },
+  {
+   "id": "1dezafv",
+   "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+   "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+   "source": "CNBC Finance",
+   "sourceHome": "https://www.cnbc.com",
+   "published": "2026-11-27T13:21:56.000Z",
+   "excerpt": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+   "category": "macro",
+   "concepts": [
+    "multiples"
+   ],
+   "lang": "en"
+  },
+  {
+   "id": "1a36gtm",
+   "title": "ECB Consumer Expectations Survey results – October 2026",
+   "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+   "source": "European Central Bank",
+   "sourceHome": "https://www.ecb.europa.eu",
+   "published": "2026-11-27T09:00:00.000Z",
+   "excerpt": "",
+   "category": "central-banks",
+   "concepts": [],
+   "lang": "en"
+  },
   {
    "id": "iutzaj",
    "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
@@ -262,18 +330,6 @@
    "lang": "en"
   },
   {
-   "id": "16ty4ck",
-   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-   "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-25T12:26:41.000Z",
-   "excerpt": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
    "id": "ah6upa",
    "title": "Card payments edge past cash in shops; euro area consumers want both",
    "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
@@ -423,11 +479,11 @@
    "id": "h29rxb",
    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
    "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "source": "CNBC Finance",
+   "source": "CNBC Business",
    "sourceHome": "https://www.cnbc.com",
    "published": "2026-11-23T23:28:19.000Z",
    "excerpt": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-   "category": "equity-markets",
+   "category": "ma",
    "concepts": [],
    "lang": "en"
   },
@@ -527,174 +583,6 @@
    "published": "2026-11-21T06:00:02.000Z",
    "excerpt": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
    "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "413kh5",
-   "title": "Federal Reserve announces College Fed Challenge winners",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-20T21:15:00.000Z",
-   "excerpt": "Federal Reserve announces College Fed Challenge winners",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "958drd",
-   "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T21:10:48.000Z",
-   "excerpt": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1ideri4",
-   "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T21:04:48.000Z",
-   "excerpt": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "category": "earnings",
-   "concepts": [
-    "financial-statements",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "rujy5w",
-   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-   "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T19:59:03.000Z",
-   "excerpt": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-   "category": "equity-markets",
-   "concepts": [
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "3zr8iz",
-   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-11-20T18:03:24.000Z",
-   "excerpt": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
-   "category": "regulation",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1elevuc",
-   "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-   "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T15:50:27.000Z",
-   "excerpt": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "11bm8c4",
-   "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-   "source": "Federal Reserve",
-   "sourceHome": "https://www.federalreserve.gov",
-   "published": "2026-11-20T15:00:00.000Z",
-   "excerpt": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "category": "central-banks",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1bhtk17",
-   "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
-   "source": "U.S. SEC",
-   "sourceHome": "https://www.sec.gov",
-   "published": "2026-11-20T14:28:28.000Z",
-   "excerpt": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
-   "category": "regulation",
-   "concepts": [
-    "disclosure",
-    "fx"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "1xobymj",
-   "title": "The bull market has a new problem. The 'smart money' is selling",
-   "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T14:15:29.000Z",
-   "excerpt": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
-   "category": "capital-markets",
-   "concepts": [
-    "ipo",
-    "bonds",
-    "multiples"
-   ],
-   "lang": "en"
-  },
-  {
-   "id": "13k4gf3",
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-   "link": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-   "source": "CNBC Finance",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T13:29:50.000Z",
-   "excerpt": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-   "category": "equity-markets",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "138kbss",
-   "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-   "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T12:00:02.000Z",
-   "excerpt": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "1gnp56e",
-   "title": "A24 is having a great year at the box office. That could give HBO Max a streaming edge",
-   "link": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-   "source": "CNBC Business",
-   "sourceHome": "https://www.cnbc.com",
-   "published": "2026-11-20T12:00:02.000Z",
-   "excerpt": "A24 films \"Backrooms,\" \"The Drama\" and the Elizabeth Holmes documentary, \"You Can See Everything,\" are fueling a banner year at the box office.",
-   "category": "ma",
-   "concepts": [],
-   "lang": "en"
-  },
-  {
-   "id": "iiodju",
-   "title": "Christine Lagarde: Acting in time",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-   "source": "European Central Bank",
-   "sourceHome": "https://www.ecb.europa.eu",
-   "published": "2026-11-20T08:30:00.000Z",
-   "excerpt": "",
-   "category": "central-banks",
    "concepts": [],
    "lang": "en"
   }
